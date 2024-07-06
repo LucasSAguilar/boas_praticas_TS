@@ -1,5 +1,5 @@
-import Usuario from "./Models/Usuario.js";
-import ListaUsuarios from "./Models/ListaUsuarios.js";
+import Usuario from "../projeto_ts/Models/Usuario.js";
+import ListaUsuarios from "../projeto_ts/Models/ListaUsuarios.js";
 
 const usuarioUm = new Usuario("Lucas", "12345");
 const usuarioDois = new Usuario("Pedro", "6789");
