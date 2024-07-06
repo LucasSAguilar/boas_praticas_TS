@@ -1,0 +1,17 @@
+{
+  "name": "boas-praticas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas de Souza Aguilar",
+  "license": "ISC"
+}
